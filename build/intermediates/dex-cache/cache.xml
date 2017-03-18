@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a9e3b926403ee19390a64a8e942f153ee6575f40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e1dc675b2d1e46bb96f4d64f737ba360d304fafd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="63bd0ed0eff78e127b5e9e0bf64eedcff62453f8">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f62e66b2e010dade13f2673bae27c41aecddf8e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_12eaa965d3ec00ffa398e00d941748f986829262\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_700715c314d6a1665251bc6847c62763f9a28e8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f2e85361dc09db0f0b270e2c747ee8d0a0774d7a">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_975e0d582e8e1687a7a1f9ce975c87f204d15ef5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Hp Folio 1040 G1\AndroidStudioProjects\SnakesAndLaddersGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_948e9e9fb2bb81566008b94ef47397deef88d122\classes.dex" />
+    </item>
+
+</items>
